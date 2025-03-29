@@ -32,3 +32,13 @@ Randomly generated falling blocks.
 
 Smooth movement using arrow keys.
 
+
+New Features:
+Score System – The player earns points for dodging falling blocks.
+
+Increasing Difficulty – The enemy speed increases over time.
+
+Power-Ups – Random power-ups appear, giving the player temporary speed boosts.
+
+Game Over Screen – Displays the final score when the game ends.
+
