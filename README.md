@@ -42,3 +42,22 @@ Power-Ups – Random power-ups appear, giving the player temporary speed boosts.
 
 Game Over Screen – Displays the final score when the game ends.
 
+
+
+Key Features in This Code:
+Lives System:
+
+The player starts with 3 lives. Each collision with an enemy reduces a life. When lives reach zero, the game ends.
+
+Dynamic Difficulty:
+
+Enemies become faster as the score increases.
+
+Power-Up Effect:
+
+The speed boost power-up makes the player faster for 5 seconds.
+
+Game Over Screen:
+
+Displays the final score when the game ends.
+
