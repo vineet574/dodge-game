@@ -61,3 +61,37 @@ Game Over Screen:
 
 Displays the final score when the game ends.
 
+
+New Features:
+Multiple Levels:
+
+Increase difficulty as the score reaches certain milestones, e.g., higher enemy speed, additional enemies, or faster power-ups.
+
+Add level transitions and display the current level on the screen.
+
+Obstacle Blocks:
+
+Introduce stationary or moving obstacles that block the player's path.
+
+Shield Power-Up:
+
+Add a shield power-up that protects the player from losing a life for a short duration.
+
+Introduce different-colored power-ups for variety.
+
+Timer-Based Gameplay:
+
+Limit the game duration, and calculate the score within the given time frame.
+
+Background Music and Sound Effects:
+
+Add background music and sound effects for actions like collecting power-ups, colliding with enemies, or losing lives.
+
+Custom Player Skins:
+
+Allow the player to select their appearance, e.g., circle, square, triangle, or even images.
+
+Pause and Restart Features:
+
+Add the ability to pause the game and display a menu for resuming or restarting.
+
